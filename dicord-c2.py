@@ -5,8 +5,8 @@ import tempfile
 
 # --- Configuration ---
 # IMPORTANT: Replace these with your actual Bot Token and Server (Guild) ID
-TOKEN = 'MTQzMjAxMjU5MzE4MjE1MDY3Ng.GdAb95.IuvkMveGk64UD0Tuk919zTQ9EJOFo_0Io8aSQM'
-GUILD_ID = 1432012127631183963  # Replace 0 with your integer Server ID
+TOKEN = 'Discord_token'
+GUILD_ID = 0  # Replace 0 with your integer Server ID
 # -------------------
 
 # Discord's file upload limit is 25MB for bots on standard servers.
@@ -140,3 +140,4 @@ if __name__ == '__main__':
             print("[!] FATAL ERROR: Privileged Gateway Intents are required. Please enable 'MESSAGE CONTENT INTENT' in the Discord Developer Portal.")
         except Exception as e:
             print(f"[!] FATAL ERROR: An unexpected error occurred: {e}")
+
