@@ -13,9 +13,9 @@ from pathlib import Path
 from typing import Optional
 
 # --- Configuration ---
-TOKEN = 'MTQzMjAxMjU5MzE4MjE1MDY3Ng.GdAb95.IuvkMveGk64UD0Tuk919zTQ9EJOFo_0Io8aSQM'
-GUILD_ID = 1432012127631183963
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1432254030054293625/9SUm-tDRo06WMs5F150ak2C6jZ4ubS_obtS3srA--3DgA9YZPuvKfqSiumToN-YWUOBT'
+TOKEN = 'Discord_token'
+GUILD_ID = 0
+WEBHOOK_URL = ''
 # -------------------
 
 MAX_FILE_SIZE = 25 * 1024 * 1024
@@ -182,3 +182,4 @@ if __name__ == '__main__':
             break
         except Exception:
             time.sleep(random.randint(5, 20))
+
