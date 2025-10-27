@@ -17,7 +17,7 @@ IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE for any direct, indirect,
 ## User's Responsibility
 You, the user, are solely responsible for your actions. Ensure that your use of this software complies with all applicable local, state, national, and international laws. Do not use this tool on any system you do not own or have explicit, documented permission to test.
 
-## Think before you code. Act responsibly.
+## Think before you execute. Act responsibly.
 
 
 
